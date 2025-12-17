@@ -26,9 +26,14 @@ operations and operator precedence.
 Calculating and displaying the sum of numbers from 1 to 9 using Java
 arithmetic expressions.
 
+### Ch17 – PI Approximation  
+Approximating the value of π using a mathematical series and
+floating-point arithmetic in Java.
+
 ## 🛠️ Technologies Used
 - Java  
 - Console Output  
+- Arithmetic & Floating-Point Operations  
 
 ## 🎯 Purpose
 These exercises are part of my learning journey in Java programming.
