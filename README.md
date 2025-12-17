@@ -6,29 +6,33 @@ and logical concepts in real code.
 
 ## 📂 Projects Included
 
-### Ch11 – Welcome Messages  
+**Ch11 – Welcome Messages**  
 Simple console output using `System.out.println`.
 
-### Ch12 – Repeated Output  
+**Ch12 – Repeated Output**  
 Printing repeated statements to practice basic output and structure.
 
-### Ch13 – Java Text Pattern  
+**Ch13 – Java Text Pattern**  
 Printing a formatted text-based pattern using Java.
 
-### Ch14 – Table of Powers  
+**Ch14 – Table of Powers**  
 Displaying numbers alongside their squares and cubes.
 
-### Ch15 – Expression Evaluation  
+**Ch15 – Expression Evaluation**  
 Evaluating and displaying a mathematical expression using Java arithmetic
 operations and operator precedence.
 
-### Ch16 – Sum of Numbers  
+**Ch16 – Sum of Numbers**  
 Calculating and displaying the sum of numbers from 1 to 9 using Java
 arithmetic expressions.
 
-### Ch17 – PI Approximation  
-Approximating the value of π using a mathematical series and
-floating-point arithmetic in Java.
+**Ch17 – PI Approximation**  
+Approximating the value of π using a mathematical series and floating-point
+arithmetic in Java.
+
+**Ch18 – Circle Perimeter and Area**  
+Calculating and displaying the perimeter and area of a circle using
+mathematical formulas and Java arithmetic operations.
 
 ## 🛠️ Technologies Used
 - Java  
