@@ -75,7 +75,5 @@ Converting minutes to approximate years and remaining days.
 These exercises are part of my learning journey in Java programming. They aim to strengthen problem-solving skills and connect mathematical theory with practical programming.
 
 ## 👤 Author
-Mina Ashraf  
-Mathematics & Statistics Student – Faculty of Science, Cairo University
 **Mina Ashraf**  
 Mathematics & Statistics Student – Faculty of Science, Cairo University
