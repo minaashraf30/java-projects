@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 public class Ch38{
 	public static void main(String [] args){
 		Scanner input = new Scanner(System.in);
